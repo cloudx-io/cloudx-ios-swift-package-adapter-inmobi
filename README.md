@@ -24,6 +24,7 @@ flag to retain the adapter registration code.
 
 | Package version | CloudX adapter | InMobi SDK |
 | --- | --- | --- |
+| `11050000.0.0` | `11.5.0.0` | `11.5.0` |
 
 The package installs CloudX Core and InMobi SDK as dependencies. Import
 `CloudXCore` in the application. The adapter registers when the application
